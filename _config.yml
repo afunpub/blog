@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 我的網站
-subtitle: 記錄我的生活
+title: Jeffrey的網站
+subtitle: 記錄Jeffrey學習的歷程
 description: 記錄我生活的網站
 author: Jeffrey Lin
 language: zh-tw
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: jacman
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
