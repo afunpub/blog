@@ -78,3 +78,10 @@ menu:
  tags: /tags
 
 ```
+### 兩個以上tags設法
+用yaml語法，例如要設兩個tags為github與hexo
+```
+tags:
+- github
+- hexo
+```
