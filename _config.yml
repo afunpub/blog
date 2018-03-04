@@ -72,3 +72,5 @@ deploy:
   repo: https://github.com/afunpub/afunpub.github.io.git
   branch: master
   message:
+  name: afunpub
+  email: afunpub@gmail.com
